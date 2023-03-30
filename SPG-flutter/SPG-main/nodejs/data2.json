@@ -1,0 +1,14 @@
+{
+    "game1" :{
+        "status": true,
+        "name": "giraffeNeck"
+    },
+    "game2" :{
+        "status": false,
+        "name": "frogJump"
+    },
+    "game3" :{
+        "status": true,
+        "name": "snakeDodge"
+    }
+}
